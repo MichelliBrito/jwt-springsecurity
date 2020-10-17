@@ -1,4 +1,4 @@
-package com.spring.agendalive.payload.response;
+package com.spring.agendalive.auth.response;
 
 import java.util.List;
 

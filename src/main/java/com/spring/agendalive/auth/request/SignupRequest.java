@@ -1,4 +1,4 @@
-package com.spring.agendalive.payload.request;
+package com.spring.agendalive.auth.request;
 
 import java.util.Set;
 
